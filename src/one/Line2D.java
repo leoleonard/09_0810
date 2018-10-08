@@ -6,6 +6,9 @@ public class Line2D extends Shape2D {
     private double b1;
     private double b2;
 
+    //a = x;
+    //b = y;
+
     public Line2D(double a1, double a2, double b1, double b2) {
         this.a1 = a1;
         this.a2 = a2;

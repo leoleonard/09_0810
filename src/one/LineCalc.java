@@ -6,5 +6,5 @@ public class LineCalc {
         return Math.pow((Math.pow((line2D.getA1()-line2D.getB1()),2) + Math.pow((line2D.getA2()-line2D.getB2()),2)), 0.5);
     }
 
-
+//http://onlinemschool.com/math/assistance/cartesian_coordinate/p_length/
 }
