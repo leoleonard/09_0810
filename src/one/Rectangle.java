@@ -26,7 +26,7 @@ public class Rectangle extends GeometricShape {
         this.height = height;
     }
 
-    double rectangleArea() {
-        return height * width;
-    }
+    //double rectangleArea() {
+//        return height * width;
+//    }
 }

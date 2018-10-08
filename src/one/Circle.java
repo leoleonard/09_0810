@@ -15,9 +15,9 @@ public class Circle extends GeometricShape {
         this.radius = radius;
     }
 
-    double circleArea() {
-        return radius * Math.PI;
-    }
+//    double circleArea() {
+//        return radius * Math.PI;
+//    }
 
 
 }
